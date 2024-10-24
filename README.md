@@ -87,14 +87,6 @@
 ###
 
 <div align="center">
-  <a href="linkedin.com/in/mehmet-yusuf-bircan-587a53236" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://profile-counter.glitch.me/MehmetYB4/count.svg?"  />
 </div>
 
