@@ -18,11 +18,11 @@
 
 ###
 
-<h2 align="left">Kod Yapısı 📁</h2>
+<p align="left">Proje, Kaggle platformunda yer alan "A Large Scale Fish Dataset" veri setini kullanır. Bu veri seti, 9 farklı balık türüne ait resimler içerir:<br><br>    •Hourse Mackerel<br>    •Black Sea Sprat<br>    •Sea Bass<br>    •Red Mullet<br>    •Trout<br>    •Striped Red Mullet<br>    •Shrimp<br>    •Gilt-Head Bream<br>    •Red Sea Bream<br><br>    Toplam resim sayısı: 9000<br>    Resimler PNG formatındadır.</p>
 
 ###
 
-<p align="left">Proje, Kaggle platformunda yer alan "A Large Scale Fish Dataset" veri setini kullanır. Bu veri seti, 9 farklı balık türüne ait resimler içerir:<br><br>    •Hourse Mackerel<br>    •Black Sea Sprat<br>    •Sea Bass<br>    •Red Mullet<br>    •Trout<br>    •Striped Red Mullet<br>    •Shrimp<br>    •Gilt-Head Bream<br>    •Red Sea Bream<br><br>    Toplam resim sayısı: 9000<br>    Resimler PNG formatındadır.</p>
+<h2 align="left">Kod Yapısı 📁</h2>
 
 ###
 
@@ -87,7 +87,9 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="linkedin.com/in/mehmet-yusuf-bircan-587a53236" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
